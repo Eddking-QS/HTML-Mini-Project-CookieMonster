@@ -1,5 +1,10 @@
 body {
-    background: url('../images/cookie-monster.jpg') no-repeat center center;
+    background: url('../images/cookie-monster.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
