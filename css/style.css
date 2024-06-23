@@ -1,6 +1,6 @@
 body {
-    background: url('../images/cookie-monster.jpg') no-repeat center center
-        fixed;
+    background: url('../images/cookie-monster.jpg') no-repeat center center;
+    background-size: cover;
 }
 
 #container {
