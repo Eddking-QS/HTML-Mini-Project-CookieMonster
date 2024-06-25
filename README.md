@@ -10,6 +10,6 @@ A simple portfolio website for your favourite cookie monster designed with basic
 - Responsive design that adapts to different screen sizes
 
 ## Live Demo
-[Cookie Monster Portfolio](https://github.com/Eddking-QS/HTML-Mini-Project-CookieMonster)
+[Cookie Monster Portfolio](https://eddking-qs.github.io/HTML-Mini-Project-CookieMonster/)
 
 Feel free to star, fork, or contribute to this project. Any feedback is welcome as I continue to improve and learn!
