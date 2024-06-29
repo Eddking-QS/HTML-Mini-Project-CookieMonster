@@ -1,15 +1,29 @@
 # HTML-Mini-Project-CookieMonster
 
-A simple portfolio website for your favourite cookie monster designed with basic HTML and CSS. 
+## Description
 
-## Technologies Used
-- HTML
-- CSS
+A simple portfolio website for your favourite cookie monster designed with basic HTML and CSS.
 
 ## Features
-- Responsive design that adapts to different screen sizes
+
+**HTML**
+
+-   Links
+-   Lists
+-   Paragraphs
+
+**CSS**
+
+-   color
+-   Images
+-   font-styling
 
 ## Live Demo
+
 [Cookie Monster Portfolio](https://eddking-qs.github.io/HTML-Mini-Project-CookieMonster/)
 
-Feel free to star, fork, or contribute to this project. Any feedback is welcome as I continue to improve and learn!
+## Disclaimer
+
+-   This project will not be updated or maintained. It is a simple project to practice HTML and CSS.
+
+Feel free to star or fork this project and style it as you wish.
